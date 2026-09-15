@@ -1,4 +1,8 @@
-Retail Sales Data Analysis
+📊 Retail Sales Data Analysis
+
+Python | Pandas | NumPy | Matplotlib | Seaborn
+
+A data analysis project focused on exploring retail sales data, identifying business trends, analyzing profitability, and generating actionable insights using Python.
 
 📌 Project Overview
 
@@ -61,6 +65,36 @@ The project includes:
 - Higher discount levels generally had a negative impact on profitability.
 - Apple Smart Phone, Full Size was the top-selling product.
 - Canon imageCLASS 2200 Advanced Copier was the most profitable product.
+
+## 📊 Visualizations
+
+- KPI Dashboard
+
+![KPI Dashboard](output/kpi_dashboard.png)
+
+- Category-wise Sales vs Profit
+
+![Category Sales vs Profit](output/category_sales_vs_profit.png)
+
+- Monthly Sales Trend
+
+![Monthly Sales Trend](output/monthly_sales_trend.png)
+
+- Top 10 Best-Selling Products
+
+![Top Products](output/top_10_best_selling_products.png)
+
+- Regional Sales Comparison
+
+![Regional Sales](output/regional_sales_comparison.png)
+
+- Discount vs Average Profit
+
+![Discount vs Profit](output/discount_vs_profit.png)
+
+- Correlation Matrix
+
+![Correlation Matrix](output/correlation_matrix.png)
 
 📁 Project Structure
 
