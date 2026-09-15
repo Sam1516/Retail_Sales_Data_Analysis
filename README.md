@@ -43,6 +43,14 @@ The project includes:
 - Correlation analysis
 - Profit margin analysis
 
+📊 Key Performance Indicators
+
+- Total Sales: 12,642,905
+- Total Profit: 1,469,034.82
+- Total Orders: 25,035
+- Total Quantity Sold: 178,312
+- Average Order Value: 505.01
+
 📈 Key Insights
 
 - Technology generated the highest sales and profit among the three categories.
@@ -56,22 +64,11 @@ The project includes:
 
 📁 Project Structure
 
-text
-Retail_Sales_Data_Analysis/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebook/
-│   └── Retail_Sales_Data_Analysis.ipynb
-│
-├── output/
-│   └── charts and analysis outputs
-│
-├── reports/
-│   └── final project report
-│
-└── README.md
+- 📁 data/ — Contains `SuperStoreOrders.csv`
+- 📁 notebooks/ — Contains `Retail_Sales_Data_Analysis.ipynb`
+- 📁 output/ — Contains charts and analysis outputs
+- 📁 reports/ — Contains the final project report
+- 📄 README.md — Project documentation
 
 
 👤 Author
